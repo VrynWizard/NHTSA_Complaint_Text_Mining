@@ -4,3 +4,4 @@
 *.pkl
 *.npz
 *.npy
+.DS_Store
